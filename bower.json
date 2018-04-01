@@ -1,0 +1,18 @@
+{
+  "name": "oauth_client",
+  "version": "0.0.0",
+  "authors": [
+    "Miguel Rodrigo Pazo Sanchez <miguel.ps19@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
